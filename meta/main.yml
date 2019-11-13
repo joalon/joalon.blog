@@ -1,0 +1,16 @@
+galaxy_info:
+  author: Joakim Lönnegren
+  description: Deploys joalon.se
+
+  license: MIT
+
+  min_ansible_version: 2.4
+
+  platforms:
+  - name: EL
+    versions:
+    - 7
+    - 8
+
+  galaxy_tags: [joalon]
+  

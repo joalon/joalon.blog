@@ -1,0 +1,8 @@
+---
+
+tasks:
+- import_tasks: sshd.yml
+- import_tasks: httpd.yml
+
+
+

@@ -1,0 +1,6 @@
+---
+tasks:
+
+- name: Install Apache
+  debug:
+    msg: "Hello"
